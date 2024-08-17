@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Convolutional neural network models for lung disease classification using respiratory sound analysis<br><br>🌱 I’m currently learning Nest.js , Astro , PostgreSQL , Docker<br><br>👯 I’m looking to collaborate on Open-source projects at the intersection of deep learning and medical diagnostics<br><br>💬 Ask me about React.js , Next.js , Node.js<br><br>📫 How to reach me shaikhahw54@gmail.com
+I have experience in building and maintaining scalable web applications, with a focus on both frontend and backend technologies. My tech stack includes JavaScript, TypeScript, React.js, Next.js, Node.js, and PostgreSQL, and I'm currently expanding my knowledge in Nest.js, Astro, and Docker.
+
+I am comfortable working with modern frontend frameworks like Angular and Vue.js. My work includes developing responsive and dynamic user interfaces, implementing RESTful APIs, and optimizing application performance.
+
+If you're looking for a passionate developer to collaborate on web development or AI-driven projects, I would love to connect. Let’s build something great together!
+
+🔭 I’m currently working on Convolutional neural network models for lung disease classification using respiratory sound analysis<br><br>💬 Ask me about React.js , Next.js , Node.js<br><br>📫 How to reach me shaikhahw54@gmail.com
 
 
 ## 🌐 Socials:
