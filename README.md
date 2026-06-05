@@ -4,7 +4,9 @@ Backend engineer, 3+ years in production. I build distributed systems, event-dri
 
 TypeScript/Node.js is home base. Deep in Kafka-based microservices, real-time voice AI, multi-gateway payments, and ML recommendation systems. Clean service boundaries, systems that hold up under real load.
 
-📫 hadiwaseem.lh@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdul-hadi-waseem-881295232/) &nbsp;·&nbsp; [X](https://x.com/AbdulHadiWasee3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hadiwaseem.lh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hadi-waseem-881295232/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AbdulHadiWasee3)
 
 ---
 
@@ -25,26 +27,3 @@ OpenAI · Gemini · Deepgram · ElevenLabs · AWS Polly · Pinecone · Twilio
 **Frontend**
 Next.js · React · Tailwind · Zustand · TanStack Query · Radix UI
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abdul-Hadi-Waseem&theme=buefy&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=Abdul-Hadi-Waseem&theme=buefy&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Hadi-Waseem&theme=buefy&hide_border=false&layout=compact)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Hadi-Waseem&theme=github-compact&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Abdul-Hadi-Waseem&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Abdul-Hadi-Waseem&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Abdul-Hadi-Waseem&icon=5&color=12)](https://visitcount.itsvg.in)
